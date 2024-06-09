@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aymenbejaoui, 3rd year ICT engineering student
-- 👀 I’m interested in data science and machine learning fields.
-- 🌱 I’m currently working on a devlopping a tunisian sign language translator with AI as part of a smart images applications cursus.
+- 👋 Hi, I’m @Aymenbejaoui, ICT Engineer at Huawei
+- 👀 Interested in data science and machine learning fields.
+- 🌱 I’m currently working with telecom operators such as Tunisia Telecom to improve customer experience with sophisticqted dqtq engineer tools.
 
 
 <!---
